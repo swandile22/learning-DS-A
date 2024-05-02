@@ -15,6 +15,7 @@ import java.util.Queue;
 
 public class PriorityQueues {
 
+
     public static void main(String[] args) {
 
         Queue<String> queue = new PriorityQueue<String>(Collections.reverseOrder());
